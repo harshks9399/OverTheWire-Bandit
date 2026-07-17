@@ -8,9 +8,11 @@ commands used:
 
 ssh
 
+ls -a
+
+cat ./...Hiding-From-You
 
 
 
-
-password to lvl4 : 
+password to lvl4 : xzTXq1rDJQVVAzdv5cHq1TQytTWufAMq
 
