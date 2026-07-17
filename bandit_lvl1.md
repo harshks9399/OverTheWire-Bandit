@@ -1,10 +1,10 @@
-password to level1 : 6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
+\### password to level1 : 6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
 
 
 
 
 
-TASK : bandit - 0
+\#### TASK : bandit - 0
 
 commands used:
 
